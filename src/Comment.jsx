@@ -30,7 +30,7 @@ function Comment() {
     }
     return (
         <div>
-            <h1 className='topicHeading'>What the fuck is React ????</h1>
+            <h1 className='topicHeading'>Why React is popular ????</h1>
             <div className='commentContainer'>
                 {
                     comments.map(function(val,index) {
